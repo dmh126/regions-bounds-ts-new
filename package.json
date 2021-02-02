@@ -7,9 +7,12 @@
   "scripts": {
     "build": "tsc"
   },
-  "author": "Cameron Nokes",
+  "author": "BM",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^2.7.2"
+  },
+  "dependencies": {
+    "string-similarity": "^4.0.4"
   }
 }
