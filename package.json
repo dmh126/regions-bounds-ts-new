@@ -1,6 +1,6 @@
 {
   "name": "regions-bounds-ts-new",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Repository for Regounds Geo data v2",
   "main": "index.js",
   "types": "index.d.ts",
