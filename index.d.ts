@@ -1,2 +1,3 @@
 import { regionBoundMap } from './lib/regionsGeoBounds';
-export { regionBoundMap };
+import { findByCoordinates } from './lib/findByCoordinates';
+export { regionBoundMap, findByCoordinates };
